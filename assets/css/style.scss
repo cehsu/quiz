@@ -31,7 +31,6 @@ $sans: 'Titillium Web', sans-serif;
 html {
   width: 100%;
   height: 100%;
-  perspective: 900;
   overflow-y: scroll;
   background-color: $grey;
   font-family: $sans;
@@ -101,7 +100,6 @@ p {
   
 ul {
   list-style: none;
-  perspective: 900;
   padding: 0;
   margin: 0;
   li {
