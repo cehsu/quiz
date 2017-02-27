@@ -1,6 +1,6 @@
 ## Welcome to Quiz
 
-Test your knowledge on the nuts and bolts of your end of the stack, for much win!
+Test your knowledge on the nuts and bolts of your favorite end(s) of the stack, for much win!
 
 -[Front end](front_end.md)
 
