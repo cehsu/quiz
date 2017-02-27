@@ -1,4 +1,7 @@
 <ul>
+  {% for collection in site.collections %}
+  <h2>{{ collection.label }}</h2>
+  {% endfor %}
   {% for list in site.question_list %}
   <h2>{{ list.title }}</h2>
     {% for item in list.questions %}
