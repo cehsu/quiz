@@ -7,8 +7,7 @@
         <i></i>
         <h2>{{ item.question }}</h2>
         <p>{{ item.answer }}</p>
-        <p>Source: {{ item.link }}</p>
-      <p><a href="{{ item.link }}">Source</a></p>
+        <p>Source: <a href="{{ item.link }}">{{ item.link }}</a></p>
     </li>
     {% endfor %}
 
