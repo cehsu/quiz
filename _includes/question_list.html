@@ -2,5 +2,13 @@
 <ul>
   {% for list in site.question_list %}
   <h2>{{ list.title }}</h2>
+    {% for item in list.questions %}
+    <li>
+      <input type="checkbox" checked>
+        <i></i>
+        <h2>{{ item.question }}</h2>
+        <p>{{ item.answer }}</p>
+    </li>
+    {% endfor %}
   {% endfor %}
 </ul>
