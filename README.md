@@ -11,4 +11,4 @@ Test your knowledge on the nuts and bolts of your end of the stack, for much win
 
 ### About
 
-Site build using [Architect Jekyll theme](https://github.com/jasonlong/architect-theme).
+Site build using [Architect Jekyll theme](https://github.com/jasonlong/architect-theme), and question widget inspired by [YOU MIGHT NOT NEED JAVASCRIPT](http://youmightnotneedjs.com/) and based on Alex Bergin's [CSS + HTML only Accordion Element](https://codepen.io/abergin/pen/ihlDf).
