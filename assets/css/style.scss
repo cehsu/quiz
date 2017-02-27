@@ -4,11 +4,5 @@
 $sans: 'Titillium Web', sans-serif;
 
 html {
-  width: 100%;
-  height: 100%;
-  perspective: 900;
-  overflow-y: scroll;
-  background-color: $grey;
   font-family: $sans;
-  color: $black;
 }
