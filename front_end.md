@@ -1,6 +1,6 @@
 ## Welcome to Quiz - Front End Edition
 
-Test your knowledge on the nuts and bolts of the front end, for much win! 
+Test your knowledge of the nuts and bolts of the front end, for much win! 
 
 {% include question_list.html %}
 
