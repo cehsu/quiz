@@ -2,7 +2,7 @@
   {% assign questionList = site.collections | where: "label", "question_list" | first %}
   <h2>{{ questionList.label }}</h2>
   {% for list in questionList %}
-  <h2>{{ list.title }}</h2>
+  <h2>{{ list }}</h2>
 
   {% endfor %}
 </ul>
