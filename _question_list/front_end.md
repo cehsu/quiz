@@ -8,5 +8,3 @@ questions:
 - question: "How often and when is JavaScript compiled?"
   answer: "It's typically asserted that JavaScript is interpreted, because your JavaScript source code is processed each time it's run. But that's not entirely accurate. The JavaScript engine actually compiles the program on the fly and then immediately runs the compiled code."
 ---
-
-hello
