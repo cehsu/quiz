@@ -3,13 +3,6 @@
   <h2>{{ questionList.label }}</h2>
   {% for list in questionList %}
   <h2>{{ list.title }}</h2>
-    {% for item in list.questions %}
-    <li>
-      <input type="checkbox" checked>
-        <i></i>
-        <h2>{{ item.question }}</h2>
-        <p>{{ item.answer }}</p>
-    </li>
-    {% endfor %}
+
   {% endfor %}
 </ul>
