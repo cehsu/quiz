@@ -1,0 +1,8 @@
+---
+layout: post
+title: "How many types of expressions are in the following statement: a = b * 2;?"
+date: 2017-02-27
+categories: front_end
+---
+
+2 is a literal value expression. b is a variable expression, which means to retrieve its current value. b * 2 is an arithmetic expression, which means to do the multiplication. a = b * 2 is an assignment expression, which means to assign the result of the b * 2 expression to the variable a (more on assignments later).
