@@ -31,6 +31,6 @@ questions:
 ---
 Content
 
-<script src="https://gist.github.com/cehsu/c2669dcf600ba1f1c4e106e5a965e16e.js"></script>
+{% gist cehsu/c2669dcf600ba1f1c4e106e5a965e16e %}
 
 Content
