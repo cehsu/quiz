@@ -4,3 +4,4 @@ collections:
 - question_list
 gems:
   - jekyll-gist
+  - jekyll-paginate
