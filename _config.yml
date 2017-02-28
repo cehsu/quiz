@@ -2,3 +2,5 @@ theme: jekyll-theme-architect
 paginate: 100
 collections:
 - question_list
+gems:
+  - jekyll-gist
