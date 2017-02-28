@@ -1,5 +1,5 @@
 theme: jekyll-theme-architect
-paginate: 500
+paginate: 100
 collections:
 - question_list
 gems:
