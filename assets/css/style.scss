@@ -82,7 +82,7 @@ h2 {
   @extend .no-select;
 }
 
-p {
+p, figure, ol {
   color: $black;
   font-size: 17px;
   line-height: 26px;
