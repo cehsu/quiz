@@ -82,7 +82,7 @@ h2 {
   @extend .no-select;
 }
 
-p, figure, ol {
+p {
   color: $black;
   font-size: 17px;
   line-height: 26px;
@@ -149,7 +149,7 @@ ul {
       z-index: 1;
       opacity: 0;
       &:checked {
-        &~p {
+        &~p, figure, ol {
           margin-top: 0;
           max-height: 0;
           opacity: 0;
