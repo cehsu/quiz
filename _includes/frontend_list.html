@@ -1,5 +1,6 @@
 <ul>
   {% for question in site.question_list %}
+  {% if question.category === "front_end" %}
   <li>
     <input type="checkbox" checked>
       <i></i>
@@ -7,5 +8,6 @@
       <p>{{ question.content }}</p>
       <p>Source: <a href="{{ question.link }}">{{ question.link }}</a></p>
   </li>
+  {% endif %}
   {% endfor %}
 </ul>
