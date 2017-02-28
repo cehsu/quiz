@@ -3,5 +3,4 @@ paginate: 100
 collections:
 - question_list
 gems:
-  - jekyll-coffeescript
   - jekyll-paginate
