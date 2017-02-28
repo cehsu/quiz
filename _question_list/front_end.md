@@ -29,8 +29,6 @@ questions:
   answer: "MIME is an acronym for Multi-purpose Internet Mail Extensions. It is used as a standard way of classifying file types over the Internet. Web servers and browsers have a defined list of MIME types, which facilitates transfer of files of a known type, irrespective of operating system or browser. A MIME type actually has two parts: a type and a subtype that are separated by a slash (/). For example, the MIME type for Microsoft Word files is application/msword (i.e., type is application and the subtype is msword)."
   link: "https://www.toptal.com/web/interview-questions"
 ---
-Content
 
 cehsu/c2669dcf600ba1f1c4e106e5a965e16e
 
-Content
